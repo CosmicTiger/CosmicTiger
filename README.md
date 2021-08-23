@@ -4,6 +4,8 @@
 
 ## I'm a Student, Uncle, Developer, Friend, Boyfriend and Teacher!!
 
+I'm a Web Developer with vast knowledge on programming languages like JS, Python, C/C++, Java, GoLang and C#. Hoping always to share and learn.
+
 - 🔭 I'm teacher in CS50xni Harvard in Nicaragua program from Fundacion UNO, National University of Engineering, Nicaragua and Harvard University: [CS50xni][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🚧 I’m looking to create content related to programming and videogames
