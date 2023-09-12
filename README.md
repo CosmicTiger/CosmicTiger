@@ -1,15 +1,15 @@
 ### Hi there, I'm Luisangel - aka [CosmicTiger][website] 👁️‍🗨️
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/leylenoor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%leylenoor&screen_name=leylenoor)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leylenoor?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%LuisangelM11995&screen_name=LuisangelM11995)
 
 ## I'm a Student, Uncle, Developer, Friend, Boyfriend and Teacher!!
 
-I'm a Web Developer with vast knowledge on programming languages like JS, Python, C/C++, Java, GoLang and C#. Hoping always to share and learn.
+I'm a Web Developer with vast knowledge on programming languages like JS/TS, Python, C/C++, Java, GoLang and C#. Hoping always to share and learn.
 
-- 🔭 I'm teacher in CS50xni Harvard in Nicaragua program from Fundacion UNO, National University of Engineering, Nicaragua and Harvard University: [CS50xni][course]!
+# - 🔭 I'm teacher in CS50xni Harvard in Nicaragua program from Fundacion UNO, National University of Engineering, Nicaragua and Harvard University: [CS50xni][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🚧 I’m looking to create content related to programming and videogames
-- 🥅 2021 Goals: Contribute to Open Source projects, improve in my professional skills and grow as a CyberSecurity Analyst
+# - 🥅 2021 Goals: Contribute to Open Source projects, improve in my professional skills and grow as a CyberSecurity Analyst
 - ⚡ Fun fact: I love to draw, play guitar, play videogames, keep practicing programming and hacking as if were hobbies
 
 ### Connect with me:
@@ -59,7 +59,7 @@ I'm a Web Developer with vast knowledge on programming languages like JS, Python
 - None
 <!-- YOUTUBE:END -->
 
-➡️ [In progress...](https://youtube.com/Leylenoor)
+# ➡️ [In progress...](https://youtube.com/Leylenoor)
 
 ---
 
@@ -69,7 +69,7 @@ I'm a Web Developer with vast knowledge on programming languages like JS, Python
 - None
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [In progress...](https://)
+# ➡️ [In progress...](https://)
 
 ---
 
